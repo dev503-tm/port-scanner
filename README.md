@@ -1,5 +1,12 @@
 # port-scanner
-port-scaner
+port-scanner
+devloper dev503 
+
+
+
+
+
+-----------------------
 pip3 install colorama
 
 ^linux install^
